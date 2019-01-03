@@ -2,3 +2,4 @@ new line added
 second line
 line edited in branch
 add in master
+git line 6 from mybranch
