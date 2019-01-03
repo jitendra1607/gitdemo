@@ -1,6 +1,2 @@
 new line added
-<<<<<<< Updated upstream
 second line
-line edited in branch
-=======
->>>>>>> Stashed changes
